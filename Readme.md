@@ -1,0 +1,3 @@
+Requirements
+
+direnv nix 
